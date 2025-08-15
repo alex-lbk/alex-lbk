@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alex-lbk
 - 🌱 I’m currently learning programming
-- 📫 How to reach me alexanderlabik@gmail.com
 - ⚡ Fun fact: I like cookies
 - 🌍 I am from germany
 
